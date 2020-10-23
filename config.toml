@@ -1,4 +1,4 @@
 baseURL = "/"
-languageCode = "zh-CN"
+languageCode = "zh-cn"
 theme = "tale-theme"
 title = "蓝水滴"
